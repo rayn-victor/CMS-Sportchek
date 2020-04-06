@@ -1,1 +1,1 @@
-# CMS-Sportchek
+# Sportchek CMS
